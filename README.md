@@ -1,5 +1,9 @@
 # Trabalho-final-de-LP-POO
 
+
+- Adisio Filho e João Pedro Oliveira Jalles
+
+
 Nosso projeto é de uma adega onde o usuário pode navegar pelo sistema, fazer login, escolher os produtos, adicionar os itens ao carrinho e escolher a melhor forma de pagamento.
 
 
