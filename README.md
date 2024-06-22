@@ -35,8 +35,6 @@ Nosso projeto é de uma adega onde o usuário pode navegar pelo sistema, fazer l
 ## Imagens do Projeto
 
 
-- GIF
-
 
 - IMAGENS
 
@@ -62,6 +60,10 @@ Nosso projeto é de uma adega onde o usuário pode navegar pelo sistema, fazer l
 <div align="center">
 <img src="https://github.com/joaopjalles/Trabalho-final-de-LP-POO/assets/104013326/1377950f-89c1-40d3-a093-52f3a917fd9a" width="600px" />
 </div>
+
+
+
+https://github.com/joaopjalles/Trabalho-final-de-LP-POO/assets/104013326/5550ea01-f169-4f58-9fac-90e70ecbbc22
 
 
 
